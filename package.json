@@ -1,0 +1,20 @@
+{
+  "name": "omerraker",
+  "version": "0.0.1",
+  "description": "omerraker sitesi",
+  "keywords": [
+    "omer",
+    "yigit",
+    "aker"
+  ],
+  "author": "omerraker",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}

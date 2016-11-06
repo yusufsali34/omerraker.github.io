@@ -1,0 +1,23 @@
+{
+  "name": "omerraker",
+  "authors": [
+    "omerraker <omerraker@yahoo.com>"
+  ],
+  "description": "omerraker sitesi",
+  "main": "index.html",
+  "keywords": [
+    "omer",
+    "yigit",
+    "aker"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/omerraker",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "firebase": "2.2",
+    "angular-resource": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angularfire": "^2.1.0"
+  }
+}
